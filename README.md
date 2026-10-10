@@ -6,8 +6,7 @@ SnapDose is an AI chatbot that reads a photo of a medicine strip, box, or prescr
 
 > ⚠️ SnapDose is a **reading aid, not a doctor**. It only explains what is printed on the medicine. It never diagnoses, recommends medicines, or changes a dose. Always confirm with a doctor or pharmacist.
 
-**Live demo:** _add your Streamlit Cloud link here_
-**Demo video:** _add your video link here_
+**Live link:** https://snapdose-dsrubcih7qygflzvq6sgsc.streamlit.app/
 
 ## Features
 
