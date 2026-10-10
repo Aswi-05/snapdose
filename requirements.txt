@@ -1,0 +1,3 @@
+google-genai
+streamlit>=1.43
+twilio
